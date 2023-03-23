@@ -1,0 +1,178 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Bryan Sebesta",
+	"icon": "https://micro.blog/bsebesta/avatar.jpg",
+	"home_page_url": "https://bryansebesta.net/",
+	"feed_url": "https://bryansebesta.net/feed.json",
+	"items": [
+		
+			{
+				"id": "http://bsebesta.micro.blog/2023/03/23/holy-cow-i.html",
+				
+				"content_html": "<p>Holy cow, I am loving the design philosophy behind <a href=\"https://utopia.fyi/\">Utopia</a> and their fluid type / space scales. Been playing with it all week and just today it &ldquo;clicked.&rdquo; Hard to imagine going back to purely using breakpoints when designing.</p>\n",
+				"content_text": "Holy cow, I am loving the design philosophy behind [Utopia](https://utopia.fyi/) and their fluid type / space scales. Been playing with it all week and just today it \"clicked.\" Hard to imagine going back to purely using breakpoints when designing.\n",
+				"date_published": "2023-03-23T14:44:44-06:00",
+				"url": "https://bryansebesta.net/2023/03/23/holy-cow-i.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2023/03/17/on-this-st.html",
+				
+				"content_html": "<p>💬 On this St. Patrick&rsquo;s Day, thinking of this old Gaelic blessing:</p>\n<blockquote>\n<p>May the road rise up to meet you.<br>\nMay the wind be always at your back.<br>\nMay the sun shine warm upon your face;<br>\nthe rains fall soft upon your fields<br>\nand until we meet again,<br>\nmay God hold you in the palm of His hand</p>\n</blockquote>\n",
+				"content_text": "💬 On this St. Patrick's Day, thinking of this old Gaelic blessing:\n\n> May the road rise up to meet you.  \n> May the wind be always at your back.  \n> May the sun shine warm upon your face;  \n> the rains fall soft upon your fields  \n> and until we meet again,  \n> may God hold you in the palm of His hand\n",
+				"date_published": "2023-03-17T14:32:38-06:00",
+				"url": "https://bryansebesta.net/2023/03/17/on-this-st.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2023/03/16/currently-reading-sabbath.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780804151252\">Sabbath</a> by Wayne Muller 📚 Just in the introduction, this quote hit me hard.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Currently reading: [Sabbath](https://micro.blog/books/9780804151252) by Wayne Muller 📚 Just in the introduction, this quote hit me hard.\n\n<img src=\"uploads/2023/6bcf00faad.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-03-16T14:27:07-06:00",
+				"url": "https://bryansebesta.net/2023/03/16/currently-reading-sabbath.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2023/03/15/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780747598626\">The Graveyard Book</a> by Neil Gaiman 📚 Basically, &ldquo;The Jungle Book&rdquo; but set in a graveyard. Ostensibly for children, but like all great children&rsquo;s books (I&rsquo;m learning, as a parent) great for adults as well. I loved it—a moving mix of spooky, sad, surprising, and sweet.</p>\n",
+				"content_text": "Finished reading: [The Graveyard Book](https://micro.blog/books/9780747598626) by Neil Gaiman 📚 Basically, \"The Jungle Book\" but set in a graveyard. Ostensibly for children, but like all great children's books (I'm learning, as a parent) great for adults as well. I loved it—a moving mix of spooky, sad, surprising, and sweet.\n",
+				"date_published": "2023-03-15T00:13:23-06:00",
+				"url": "https://bryansebesta.net/2023/03/15/finished-reading-the.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2022/06/21/a-fascinating-and.html",
+				
+				"content_html": "<p><a href=\"https://reallifemag.com/fair-game/\">A fascinating (and infurating) read on internet &ldquo;scraping&rdquo; and digital privacy</a></p>\n",
+				"content_text": "[A fascinating (and infurating) read on internet \"scraping\" and digital privacy](https://reallifemag.com/fair-game/)\n",
+				"date_published": "2022-06-21T09:00:14-06:00",
+				"url": "https://bryansebesta.net/2022/06/21/a-fascinating-and.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2022/06/18/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780805099799\">The Sixth Extinction</a> by Elizabeth Kolbert 📚</p>\n<p>Halfway through and so far it’s filled me with a fascinated sadness: that there are amazing species just extinguished I’ll never know, and many more species alive now that my children and grandchildren may never know.</p>\n",
+				"content_text": "Currently reading: [The Sixth Extinction](https://micro.blog/books/9780805099799) by Elizabeth Kolbert 📚 \n\nHalfway through and so far it’s filled me with a fascinated sadness: that there are amazing species just extinguished I’ll never know, and many more species alive now that my children and grandchildren may never know.\n",
+				"date_published": "2022-06-18T21:02:10-06:00",
+				"url": "https://bryansebesta.net/2022/06/18/currently-reading-the.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2022/06/18/walking-out-of.html",
+				
+				"content_html": "<p>Walking out of Blue Marble Ice Cream in NYC yesterday, we came across a family who raised <em>vanessa cardui</em> (Painted Lady) from egg to larva to pupa to butterfly. The two kids were going on their way to Central Park to release them, and so excited!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Walking out of Blue Marble Ice Cream in NYC yesterday, we came across a family who raised _vanessa cardui_ (Painted Lady) from egg to larva to pupa to butterfly. The two kids were going on their way to Central Park to release them, and so excited!\n\n<img src=\"https://bsebesta.micro.blog/uploads/2022/8cf778e845.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-18T20:18:26-06:00",
+				"url": "https://bryansebesta.net/2022/06/18/walking-out-of.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/27/tomorrow-advent-begins.html",
+				
+				"content_html": "<p>Tomorrow, Advent begins, one of my favorite times of the year. I try to avoid social media and the news during this season, in favor of older writing, so I’ll be quiet here. In the meantime, happy holidays, and God bless.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tomorrow, Advent begins, one of my favorite times of the year. I try to avoid social media and the news during this season, in favor of older writing, so I’ll be quiet here. In the meantime, happy holidays, and God bless.\n\n<img src=\"https://bsebesta.micro.blog/uploads/2021/67295d0433.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-27T20:05:21-06:00",
+				"url": "https://bryansebesta.net/2021/11/27/tomorrow-advent-begins.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/25/grogu.html",
+				
+				"content_html": "<p>Grogu!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Grogu!\n\n<img src=\"https://bsebesta.micro.blog/uploads/2021/cc0510a30a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-25T08:56:37-06:00",
+				"url": "https://bryansebesta.net/2021/11/25/grogu.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/25/citynotes-even-though.html",
+				
+				"content_html": "<p>Citynotes: Even though it means sitting in the cold starting at 4 AM, the Maceys Day Parade is (usually) worth it. Here’s Big Bird and the crew, still one of my favorite floats.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Citynotes: Even though it means sitting in the cold starting at 4 AM, the Maceys Day Parade is (usually) worth it. Here’s Big Bird and the crew, still one of my favorite floats.\n\n<img src=\"https://bsebesta.micro.blog/uploads/2021/df8d98dadd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-25T08:36:33-06:00",
+				"url": "https://bryansebesta.net/2021/11/25/citynotes-even-though.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/20/grocery-day.html",
+				
+				"content_html": "<p>Grocery day 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Grocery day 📷\n\n<img src=\"https://bsebesta.micro.blog/uploads/2021/4139f6d017.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-20T12:54:07-06:00",
+				"url": "https://bryansebesta.net/2021/11/20/grocery-day.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/18/came-across-lm.html",
+				
+				"content_html": "<p>Came across <a href=\"https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the\">L.M. Sacasas' description</a> of a pattern whereby &ldquo;a public good, commonly shared or freely accessible, has been transmuted into a luxury item available only to the privileged classes.&rdquo; 💬 Anyone know of a catchy name for this concept?</p>\n",
+				"content_text": "Came across [L.M. Sacasas' description](https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the) of a pattern whereby \"a public good, commonly shared or freely accessible, has been transmuted into a luxury item available only to the privileged classes.\" 💬 Anyone know of a catchy name for this concept?\n",
+				"date_published": "2021-11-18T13:34:00-06:00",
+				"url": "https://bryansebesta.net/2021/11/18/came-across-lm.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/18/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101665398\">The Left Hand of Darkness: 50th Anniversary Edition (Ace Science Fiction)</a> by Ursula K. Le Guin 📚 I had <em>no</em> idea what it was about, except that it was good. And it was wonderfully engrossing, otherworldly even. Terrific read.</p>\n",
+				"content_text": "Finished reading: [The Left Hand of Darkness: 50th Anniversary Edition (Ace Science Fiction)](https://micro.blog/books/9781101665398) by Ursula K. Le Guin 📚 I had _no_ idea what it was about, except that it was good. And it was wonderfully engrossing, otherworldly even. Terrific read.\n",
+				"date_published": "2021-11-18T10:17:42-06:00",
+				"url": "https://bryansebesta.net/2021/11/18/finished-reading-the.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/11/135015.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://bsebesta.micro.blog/uploads/2021/17e84f0203.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-11T12:50:15-06:00",
+				"url": "https://bryansebesta.net/2021/11/11/135015.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/08/just-finished-reading.html",
+				
+				"content_html": "<p>Just finished reading <a href=\"https://micro.blog/books/9780811201025\">The Wisdom of the Desert (New Directions Book 295)</a> by Thomas Merton. 📚 I really love the Desert Fathers, especially their emphasis on silence, solitude, and compassion. And for someone as prone to self-interruption as myself, they constantly challenge me.</p>\n",
+				"content_text": "Just finished reading [The Wisdom of the Desert (New Directions Book 295)](https://micro.blog/books/9780811201025) by Thomas Merton. 📚 I really love the Desert Fathers, especially their emphasis on silence, solitude, and compassion. And for someone as prone to self-interruption as myself, they constantly challenge me.\n",
+				"date_published": "2021-11-08T10:54:36-06:00",
+				"url": "https://bryansebesta.net/2021/11/08/just-finished-reading.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/08/i-just-started.html",
+				
+				"content_html": "<p>I just started read <a href=\"https://micro.blog/books/9781853260032\">The Complete Father Brown Stories</a> by G. K. Chesterton, specifically &ldquo;The Blue Cross&rdquo; and &ldquo;The Secret Garden.&ldquo;📚  An unassuming priest solves mysteries using the divine and a knowledge of evil he&rsquo;s acquired through hearing confessions. And it&rsquo;s <em>terrific</em>.</p>\n",
+				"content_text": "I just started read [The Complete Father Brown Stories](https://micro.blog/books/9781853260032) by G. K. Chesterton, specifically \"The Blue Cross\" and \"The Secret Garden.\"📚  An unassuming priest solves mysteries using the divine and a knowledge of evil he's acquired through hearing confessions. And it's *terrific*.\n",
+				"date_published": "2021-11-08T10:47:12-06:00",
+				"url": "https://bryansebesta.net/2021/11/08/i-just-started.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/08/got-to-introduce.html",
+				
+				"content_html": "<p>Got to introduce my dad to <a href=\"https://obsidian.md/\">Obsidian</a> and the <a href=\"https://notes.andymatuschak.org/Evergreen_notes\">Evergreen Notes philosophy</a> yesterday, which was a joy. That combo has really revolutionized my writing and thinking.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got to introduce my dad to [Obsidian](https://obsidian.md/) and the [Evergreen Notes philosophy](https://notes.andymatuschak.org/Evergreen_notes) yesterday, which was a joy. That combo has really revolutionized my writing and thinking.\n\n<img src=\"https://bsebesta.micro.blog/uploads/2021/2a12913234.jpg\" width=\"600\" height=\"596\" alt=\"\" />\n",
+				"date_published": "2021-11-08T09:28:04-06:00",
+				"url": "https://bryansebesta.net/2021/11/08/got-to-introduce.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/02/clive-thompsons-ways.html",
+				
+				"content_html": "<p>Clive Thompson&rsquo;s <a href=\"https://forge.medium.com/9-ways-to-rewild-your-attention-d7c9334b6b90\">9 Ways to &lsquo;Rewild Your Attention`</a> lines up with a lot of my recent efforts to pay attention: using RSS readers, resisting the algorithm, even reading poetry. Great read.</p>\n",
+				"content_text": "Clive Thompson's [9 Ways to 'Rewild Your Attention`](https://forge.medium.com/9-ways-to-rewild-your-attention-d7c9334b6b90) lines up with a lot of my recent efforts to pay attention: using RSS readers, resisting the algorithm, even reading poetry. Great read.\n",
+				"date_published": "2021-11-02T11:56:35-06:00",
+				"url": "https://bryansebesta.net/2021/11/02/clive-thompsons-ways.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/02/101133.html",
+				
+				"content_html": "<p>Okay. We’re <em>doing</em> this. I used to know JavaScript well, then pursued a design career, and now I’m wanting to get to know it again. (And boy, a LOT’s changed.) 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Okay. We’re _doing_ this. I used to know JavaScript well, then pursued a design career, and now I’m wanting to get to know it again. (And boy, a LOT’s changed.) 📚 \n\n<img src=\"https://bsebesta.micro.blog/uploads/2021/948b494249.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-02T08:11:33-06:00",
+				"url": "https://bryansebesta.net/2021/11/02/101133.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/11/02/being-a-new.html",
+				
+				"content_html": "<p>Being a new dad, I realize how I&rsquo;m forming my kid in ways he&rsquo;ll never remember. What I say, how I treat him and others, the way we play, how I help him handle emotions: this will <em>make</em> him, yet he won&rsquo;t remember it all. No wonder we&rsquo;re a mystery to ourselves.</p>\n",
+				"content_text": "Being a new dad, I realize how I'm forming my kid in ways he'll never remember. What I say, how I treat him and others, the way we play, how I help him handle emotions: this will _make_ him, yet he won't remember it all. No wonder we're a mystery to ourselves.\n",
+				"date_published": "2021-11-02T08:05:56-06:00",
+				"url": "https://bryansebesta.net/2021/11/02/being-a-new.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2021/10/28/just-finished-reading.html",
+				
+				"content_html": "<p>Just finished reading <a href=\"https://micro.blog/books/9780830847822\">You Are Not Your Own: Belonging to God in an Inhuman World</a> by Alan Noble 📚</p>\n",
+				"content_text": "Just finished reading [You Are Not Your Own: Belonging to God in an Inhuman World](https://micro.blog/books/9780830847822) by Alan Noble 📚 \n",
+				"date_published": "2021-10-28T11:04:25-06:00",
+				"url": "https://bryansebesta.net/2021/10/28/just-finished-reading.html"
+			}
+	]
+}
