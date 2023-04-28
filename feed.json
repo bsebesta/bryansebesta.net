@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://bsebesta.micro.blog/2023/03/23/lacking-a-smartphone.html",
+				
+				"content_html": "<p>Lacking a smartphone, I&rsquo;m looking for a good camera 📸 that can A) take pretty good shots with some fine-grained control to practice photography, B) makes downloading and sharing photos as painless as possible, and C) isn&rsquo;t overly expensive.</p>\n<p>Any recommendations?</p>\n",
+				"content_text": "Lacking a smartphone, I'm looking for a good camera 📸 that can A) take pretty good shots with some fine-grained control to practice photography, B) makes downloading and sharing photos as painless as possible, and C) isn't overly expensive.\n\nAny recommendations?\n",
+				"date_published": "2023-03-23T15:07:20-06:00",
+				"url": "https://bryansebesta.net/2023/03/23/lacking-a-smartphone.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2023/03/23/currently-reading-emotionally.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780310348573\">Emotionally Healthy Spirituality</a> by Peter Scazzero 📚</p>\n",
+				"content_text": "Currently reading: [Emotionally Healthy Spirituality](https://micro.blog/books/9780310348573) by Peter Scazzero 📚 \n",
+				"date_published": "2023-03-23T14:58:52-06:00",
+				"url": "https://bryansebesta.net/2023/03/23/currently-reading-emotionally.html"
+			},
+			{
+				"id": "http://bsebesta.micro.blog/2023/03/23/i-am-really.html",
+				
+				"content_html": "<p>I am really loving <a href=\"http://experimentaltheology.blogspot.com/2023/03/practicing-jesus-part-6-little-way-of.html\">Richard Beck&rsquo;s current blog series on spiritual formation</a> and the mistakes often made there. The disciplines of spiritual formation, as well as integrating the spiritual and emotional life, has been really revolutionary for my spiritual maturity and growth these past two years.</p>\n",
+				"content_text": "I am really loving [Richard Beck's current blog series on spiritual formation](http://experimentaltheology.blogspot.com/2023/03/practicing-jesus-part-6-little-way-of.html) and the mistakes often made there. The disciplines of spiritual formation, as well as integrating the spiritual and emotional life, has been really revolutionary for my spiritual maturity and growth these past two years.\n",
+				"date_published": "2023-03-23T14:58:19-06:00",
+				"url": "https://bryansebesta.net/2023/03/23/i-am-really.html"
+			},
+			{
 				"id": "http://bsebesta.micro.blog/2023/03/23/holy-cow-i.html",
 				
 				"content_html": "<p>Holy cow, I am loving the design philosophy behind <a href=\"https://utopia.fyi/\">Utopia</a> and their fluid type / space scales. Been playing with it all week and just today it &ldquo;clicked.&rdquo; Hard to imagine going back to purely using breakpoints when designing.</p>\n",
